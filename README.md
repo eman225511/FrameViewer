@@ -22,8 +22,3 @@ FrameViewer is a simple bepass to GoGuardin, using the Iframe.
 Q:Why dont all the sites work in the iframe? A:Some websites deny Iframe, meaning they want you to vist through the url.
 Q:Can I go to instagram? A: Yes and no, If you tried to view a instagram page, you will see that you cant. But you can, as long as you put embed, EXAMPLE: https://www.instagram.com/p/yourlink/embed/
 
-
-## Authors
-
-FMODE TEAM
-jOaawd
